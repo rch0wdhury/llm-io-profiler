@@ -18,7 +18,7 @@ Parse any model's architecture (HuggingFace `config.json` or built-in profiles),
   <img src="figures/waterfall.png" width="48%" alt="I/O Waterfall"/>
 </p>
 
-> **Note:** The `figures/` directory ships empty. Run `llm-io-analyzer figures --outdir figures/` to generate all plots.
+Run `llm-io-analyzer figures --outdir figures/` to generate all plots.
 
 ---
 
